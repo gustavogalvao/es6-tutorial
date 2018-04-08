@@ -11,3 +11,10 @@ start server
 
 $ sudo npm start
 
+ES7
+
+$ sudo npm install babel-preset-es2016 --save-dev
+
+ES8 Proposals
+
+$ sudo npm install babel-preset-es2017 --save-dev
