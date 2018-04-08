@@ -20,3 +20,7 @@ $ sudo npm install babel-preset-es2016 --save-dev
 ES8 Proposals
 
 $ sudo npm install babel-preset-es2017 --save-dev
+
+REACT
+
+$ sudo npm install babel-preset-react react react-dom react-bootstrap --save-dev
