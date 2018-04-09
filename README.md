@@ -24,3 +24,7 @@ $ sudo npm install babel-preset-es2017 --save-dev
 REACT
 
 $ sudo npm install babel-preset-react react react-dom react-bootstrap --save-dev
+
+BOOTSTRAP CDN
+
+https://getbootstrap.com/
